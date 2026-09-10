@@ -1,6 +1,6 @@
 import abdals from "../assets/abdals.jpg";
 import furnish from "../assets/project-images/furnish.png";
-import { useForm, ValidationError } from "@formspree/react";
+import { useForm } from "@formspree/react";
 
 export const Home = () => {
   const stack = [
